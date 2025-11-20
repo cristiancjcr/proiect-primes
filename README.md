@@ -1,1 +1,1 @@
-# project-primes
+# OS - LABORATORY REQUIREMENTS
